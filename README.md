@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkhileshP06&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshP06&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/{AkhileshP06}/count.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkhileshP06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
