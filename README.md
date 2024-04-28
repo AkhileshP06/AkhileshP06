@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkhileshP06&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkhileshP06&theme=highcontrast&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshP06&theme=highcontrast&hide_border=true&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshP06&theme=highcontrast&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=6)
+
 
 
 Total Profile Views:<br>
